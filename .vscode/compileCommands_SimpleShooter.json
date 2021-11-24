@@ -1,0 +1,57 @@
+[
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/Source/SimpleShooter/Gun.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/.vscode/compileCommands_SimpleShooter/SimpleShooter.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/Source/SimpleShooter/Gun.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/.vscode/compileCommands_SimpleShooter/SimpleShooter.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/Source/SimpleShooter/MyPawn.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/.vscode/compileCommands_SimpleShooter/SimpleShooter.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/Source/SimpleShooter/MyPawn.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/.vscode/compileCommands_SimpleShooter/SimpleShooter.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/Source/SimpleShooter/ShooterCharacter.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/.vscode/compileCommands_SimpleShooter/SimpleShooter.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/Source/SimpleShooter/ShooterCharacter.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/.vscode/compileCommands_SimpleShooter/SimpleShooter.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/Source/SimpleShooter/SimpleShooter.Build.cs",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/.vscode/compileCommands_SimpleShooter/SimpleShooter.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/Source/SimpleShooter/SimpleShooter.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/.vscode/compileCommands_SimpleShooter/SimpleShooter.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/Source/SimpleShooter/SimpleShooter.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/.vscode/compileCommands_SimpleShooter/SimpleShooter.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/Source/SimpleShooter/SimpleShooterGameModeBase.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/.vscode/compileCommands_SimpleShooter/SimpleShooter.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/Source/SimpleShooter/SimpleShooterGameModeBase.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/SimpleShooter/.vscode/compileCommands_SimpleShooter/SimpleShooter.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	}
+]
